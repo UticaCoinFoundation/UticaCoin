@@ -4,7 +4,10 @@ UticaCoin integration/staging tree
 http://www.uticacoin.org
 
 Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2011-2013 Litecoin Developers
+
+Copyright (c) 2011-2017 Litecoin Developers
+
+Copyright (c) 2018 315 [Crypto Developers](https://www.facebook.com/groups/123115485070847/?hc_ref=ART1M6RuL2FwyvlN-CUkwDUz2lyEgLMa0zUHlE3n3_0O2D7j_UJo1GU_Sm9BLZV92q4)
 
 What is UticaCoin?
 ----------------
